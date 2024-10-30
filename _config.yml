@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Dev_Nova # the main title
 
-tagline: 아무것도 모르겠다.. # it will display as the subtitle
+tagline: A # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
