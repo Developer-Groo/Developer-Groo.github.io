@@ -18,7 +18,7 @@ title: Dev_Nova # the main title
 
 tagline: Backend Engineer # it will display as the subtitle
 
-description: "무지렁이 입니다.." # used by seo meta and the atom feed
+description: 무지렁이 입니다.. # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
