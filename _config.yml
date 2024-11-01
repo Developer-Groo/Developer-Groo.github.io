@@ -118,10 +118,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: Developer-Nova/Developer-Nova.github.io # <gh-username>/<repo>
+    repo_id: R_kgDONIITgA
+    category: Comments
+    category_id: DIC_kwDONIITgM4Cj5AM
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
