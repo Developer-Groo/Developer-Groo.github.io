@@ -29,7 +29,7 @@ layout: page
       </span>
       {% assign many = post.categories | size %}
         {% assign last = many | minus: 1 %}
-        <a href="{{ post.url | relative_url }}"><span style="color:rgb(218, 139, 139);">{{post.categories[last] }} › </span>{{post.title }}</a>
+        <a href="{{ post.url | relative_url }}"><span style="color:rgb(218, 139, 139);">{{ post.categories[last] }} › </span>{{ post.title }}</a>
     </li>
 
     {% if forloop.last %}</ul>{% endif %}
