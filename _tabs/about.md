@@ -6,7 +6,7 @@ order: 4
 
 <!--Header View-->
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Welcome%20to%20My%20Blog!&fontSize=80&animation=twinkling"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Welcome%20to%20My%20Blog!&fontSize=80&animation=twinkling"/>
 </div>
 
 <!-- My Status -->
@@ -35,7 +35,6 @@ order: 4
 <a href="https://github.com/Developer-Nova/WaterTracker_Release"><img src="https://img.shields.io/badge/Water_Tracker-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 <a href="https://github.com/Developer-Nova/MyGallery"><img src="https://img.shields.io/badge/My_Gallery-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </div>
-
 <br>
 
 <!--Languages and Tools-->
