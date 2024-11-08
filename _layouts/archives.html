@@ -27,6 +27,11 @@ layout: page
       <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">
         {{ post.date | date: df_strftime_m }}
       </span>
+      {% assign many = post.categories | size %}
+        {% assign last = many | minus: 1 %}
+        <a href="{{ post.url | relative_url }}"><span style="color:rgb(218, 139, 139);">{{
+            post.categories[last] }} › </span>{{
+          post.title }}</a>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
 
