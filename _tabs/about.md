@@ -34,7 +34,7 @@ order: 4
 <div align=center><h3>Project</h3></div>
 <a href="https://github.com/Developer-Nova/WaterTracker_Release"><img src="https://img.shields.io/badge/Water_Tracker-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 <a href="https://github.com/Developer-Nova/MyGallery"><img src="https://img.shields.io/badge/My_Gallery-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-</div>
+
 <br>
 
 <!--Languages and Tools-->
