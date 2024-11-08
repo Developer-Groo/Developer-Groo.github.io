@@ -82,9 +82,9 @@ refactor: true
     {% assign many = post.categories | size %}
     {% assign last = many | minus: 1 %}
     {% capture _category_url %}/categories/{{ post.categories[last] | slugify | url_encode }}/{% endcapture %}
-      <h1 class="card-title my-2 mt-md-0">
+      <h1>
         <a href="{{ _category_url | relative_url }}"><span style="color:rgb(218, 139, 139);">{{ post.categories[last] }} › </span></a>
-        {{ post.title }}
+        <span class="card-title my-2 mt-md-0">{{ post.title }}</span>
       </h1>
 
 
