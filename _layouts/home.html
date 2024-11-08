@@ -78,7 +78,7 @@ refactor: true
           
             {% assign many = post.categories | size %}
             {% assign last = many | minus: 1 %}
-            <h1 class="card-title my-2 mt-md-0"><span style="color:rgb(218, 139, 139);">{{ post.categories[last] }} › </span>{{ post.title }}</h1>
+            <h1 class="card-title my-2 mt-md-0"><span style="color:rgb(218, 139, 139);">[{{ post.categories[last] }}] </span>{{ post.title }}</h1>
             
             <div class="card-text content mt-0 mb-3">
               <p>{% include post-description.html %}</p>
