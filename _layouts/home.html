@@ -55,10 +55,8 @@ refactor: true
     {% assign last = many | minus: 1 %}
     {% capture _category_url %}/categories/{{ post.categories[last] | slugify | url_encode }}/{% endcapture %}
     <div class="post-preview">
-      <h1>
         <a href="{{ _category_url | relative_url }}"><span style="color:rgb(218, 139, 139);">{{ post.categories[last] }} › </span></a>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h1>
         {% assign card_body_col = '12' %}
 
         {% if post.image %}
