@@ -51,14 +51,9 @@ refactor: true
   {% for post in posts %}
 
     <article class="card-wrapper card">
-    {% assign many = post.categories | size %}
-    {% assign last = many | minus: 1 %}
-    {% capture _category_url %}/categories/{{ post.categories[last] | slugify | url_encode }}/{% endcapture %}
-    <div class="post-preview">
-        <a href="{{ _category_url | relative_url }}"><span style="color:rgb(218, 139, 139);">{{ post.categories[last] }} › </span></a>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    
+      <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
         {% assign card_body_col = '12' %}
-
         {% if post.image %}
           {% assign src = post.image.path | default: post.image %}
           {% unless src contains '//' %}
@@ -82,6 +77,17 @@ refactor: true
 
         <div class="col-md-{{ card_body_col }}">
           <div class="card-body d-flex flex-column">
+
+
+         {% assign many = post.categories | size %}
+         {% assign last = many | minus: 1 %}
+         {% capture _category_url %}/categories/{{ post.categories[last] | slugify | url_encode }}/{% endcapture %}
+         <div class="post-preview">
+         <h1>
+           <a href="{{ _category_url | relative_url }}"><span style="color:rgb(218, 139, 139);">{{ post.categories[last] }} › </span></a>
+        </h1>
+
+
             <h1 class="card-title my-2 mt-md-0">{{ post.title }}</h1>
 
             <div class="card-text content mt-0 mb-3">
