@@ -49,8 +49,9 @@ refactor: true
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}
-  
-  {% assign many = post.categories | size %}
+
+    <article class="card-wrapper card">
+    {% assign many = post.categories | size %}
     {% assign last = many | minus: 1 %}
     {% capture _category_url %}/categories/{{ post.categories[last] | slugify | url_encode }}/{% endcapture %}
     <div class="post-preview">
@@ -58,10 +59,7 @@ refactor: true
         <a href="{{ _category_url | relative_url }}"><span style="color:rgb(218, 139, 139);">{{ post.categories[last] }} › </span></a>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </h1>
-
-    <article class="card-wrapper card">
-      <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
-        {% assign card_body_col = '12' %}
+      
 
         {% if post.image %}
           {% assign src = post.image.path | default: post.image %}
