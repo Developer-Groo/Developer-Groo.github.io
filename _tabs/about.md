@@ -13,8 +13,8 @@ order: 4
 <div align=center><h2>⏳ My Status</h2></div>
 <br>
 <div align=center> 
-<img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Developer-Nova&show_icons=true&count_private=true&theme=tokyonight"/>
-<img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Nova&layout=compact&theme=tokyonight"/>
+<img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Developer-Groo&show_icons=true&count_private=true&theme=tokyonight"/>
+<img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Groo&layout=compact&theme=tokyonight"/>
 </div>
 
 <br>
@@ -23,17 +23,16 @@ order: 4
 <div align=center><h2>🗃️ Repositories</h2></div>
 
 <div align=center><h3>Study</h3></div>
-<a href="https://github.com/Developer-Nova/Swift-Documentation"><img src="https://img.shields.io/badge/Swift_Documentation-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<a href="https://github.com/Developer-Nova/iOS-Library-Collection"><img src="https://img.shields.io/badge/iOS_Library_Collection-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<a href="https://github.com/Developer-Groo/Swift-Documentation"><img src="https://img.shields.io/badge/Swift_Documentation-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 <br>
 
-<a href="https://github.com/Developer-Nova/TIL_iOS"><img src="https://img.shields.io/badge/TIL_iOS-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<a href="https://github.com/Developer-Nova/TIL_Python"><img src="https://img.shields.io/badge/TIL_python-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<a href="https://github.com/Developer-Groo/TIL_iOS"><img src="https://img.shields.io/badge/TIL_iOS-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<a href="https://github.com/Developer-Groo/TIL_Python"><img src="https://img.shields.io/badge/TIL_python-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 <br>
  
 <div align=center><h3>Project</h3></div>
-<a href="https://github.com/Developer-Nova/WaterTracker_Release"><img src="https://img.shields.io/badge/Water_Tracker-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<a href="https://github.com/Developer-Nova/MyGallery"><img src="https://img.shields.io/badge/My_Gallery-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<a href="https://github.com/Developer-Groo/WaterTracker_Release"><img src="https://img.shields.io/badge/Water_Tracker-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<a href="https://github.com/Developer-Groo/MyGallery"><img src="https://img.shields.io/badge/My_Gallery-2E2E2E?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
 <br>
 
@@ -70,5 +69,5 @@ order: 4
 <br>
 <br>
 
-<a href="https://github.com/Developer-Nova"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeveloper-Nova&count_bg=%237D90D5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
+<a href="https://github.com/Developer-Groo"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeveloper-Groo&count_bg=%237D90D5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
 </div>
