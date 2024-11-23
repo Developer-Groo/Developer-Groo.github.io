@@ -222,3 +222,5 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+    plugins:
+  - jekyll-target-blank
