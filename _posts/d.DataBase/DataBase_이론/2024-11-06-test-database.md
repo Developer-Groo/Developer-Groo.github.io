@@ -5,7 +5,7 @@ date: 2024-11-24 01:02:00 +0900
 categories: [DataBase, DataBase 이론]
 tags: [DataBase, MySQL, MongoDB, Redis, SQL, DBMS]
 ---
-<img width="600" height="400" src="https://github.com/user-attachments/assets/8859d369-7c20-4d44-8872-2ccff76744e4">
+<img width="660" height="250" src="https://github.com/user-attachments/assets/8859d369-7c20-4d44-8872-2ccff76744e4">
 
 ## DataBase 의 정의
 
