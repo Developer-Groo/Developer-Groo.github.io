@@ -5,7 +5,8 @@ date: 2024-11-24 01:02:00 +0900
 categories: [DataBase, DataBase 이론]
 tags: [DataBase, MySQL, MongoDB, Redis, SQL, DBMS]
 ---
-<img width="660" height="300" src="https://github.com/user-attachments/assets/8859d369-7c20-4d44-8872-2ccff76744e4">
+
+<img width="630" src="https://github.com/user-attachments/assets/0ff7b99b-b2b1-4cc0-a4f0-382cf53af621">
 
 ## DataBase 의 정의
 
@@ -26,11 +27,9 @@ tags: [DataBase, MySQL, MongoDB, Redis, SQL, DBMS]
 
 <br>
 
-### 실시간 접근성 (Real Time Accessibility)
-
-Database 는 사용자가 데이터를 즉시 접근하고 사용할 수 있어야 합니다.    
-
-예를 들어 온라인 뱅킹 시스템에서 잔액을 조회하는 경우, 전자상거래에서 상품 재고 상태를 실시간으로 확인하는 경우가 있습니다.
+> ### 실시간 접근성 (Real Time Accessibility)
+> Database 는 사용자가 데이터를 즉시 접근하고 사용할 수 있어야 합니다.    
+> 예를 들어 온라인 뱅킹 시스템에서 잔액을 조회하는 경우, 전자상거래에서 상품 재고 상태를 실시간으로 확인하는 경우가 있습니다.
 
 <br>
 
