@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Dev_Nova # the main title
+title: Dev_Groo # the main title
 
 tagline: Backend Engineer # it will display as the subtitle
 
@@ -22,10 +22,10 @@ description:  >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: https://Developer-Nova.github.io
+url: https://Developer-Groo.github.io
 
 github:
-  username: Developer-Nova # change to your GitHub username
+  username: Developer-Groo # change to your GitHub username
 
 # twitter:
  # username: # change to your Twitter username
@@ -33,12 +33,12 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Developer_Nova
+  name: Developer_Groo
   email: woohyeon0717@gmail.com # change to your email address
   links: 
     # The first element serves as the copyright owner's link
     # change to your Twitter homepage
-   - https://github.com/Developer-Nova # change to your GitHub homepage
+   - https://github.com/Developer-Groo # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -118,7 +118,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: Developer-Nova/Developer-Nova.github.io # <gh-username>/<repo>
+    repo: Developer-Groo/Developer-Groo.github.io # <gh-username>/<repo>
     repo_id: R_kgDONIITgA
     category: Comments
     category_id: DIC_kwDONIITgM4Cj5AM
@@ -149,7 +149,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/Developer-Nova"
+baseurl: "/Developer-Groo"
 
 # ------------ The following options are not recommended to be modified ------------------
 
