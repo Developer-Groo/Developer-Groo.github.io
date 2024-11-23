@@ -149,7 +149,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/Developer-Groo"
+baseurl: /Developer-Groo
 
 # ------------ The following options are not recommended to be modified ------------------
 
